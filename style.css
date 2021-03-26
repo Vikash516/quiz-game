@@ -1,0 +1,45 @@
+body {
+  background: #e2e2e2;
+}
+.selection {
+  display: flex;
+  margin: 40px auto;
+  justify-content: space-evenly;
+}
+
+.selection button {
+  padding: 20px;
+  font-size: 20px;
+  width: 150px;
+  border-radius: 20px;
+  outline: none;
+  cursor: pointer;
+  border: none;
+box-shadow:  10px 10px 40px #797979,
+             -10px -10px 40px #ffffff;
+}
+
+.questions {
+  width: 100%;
+  height: 100px;
+  border: 2px solid red;
+}
+
+#easy {
+  background: rgb(144, 238, 148);
+}
+
+#medium {
+  background: rgb(248, 199, 125);
+}
+#hard {
+  background: rgb(255, 94, 94);
+}
+
+#submit {
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid #000;
+  background: #fff;
+  cursor: pointer;
+}

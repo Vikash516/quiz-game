@@ -1,0 +1,88 @@
+{
+  "easy": [
+    {
+      "ques": "How many days do we have in a week?",
+      "options": ["4", "10", "7", "6"],
+      "correct" :"7"
+    },
+    {
+      "ques": "How many colors are there in a rainbow?",
+      "options": ["9", "7", "3", "6"],
+      "correct" :"7"
+    },
+    {
+      "ques": "How many letters are there in the English alphabet?",
+      "options": ["90", "156", "26", "13"],
+      "correct" :"26"
+    },
+    {
+      "ques": "How many sides are there in a triangle?",
+      "options": ["4", "3", "2", "6"],
+      "correct" :"3"
+    },
+    {
+      "ques": "In which direction does the sun rise?",
+      "options": ["East", "West", "North", "South"],
+      "correct" :"East"
+    }
+  ],
+  "medium": [
+    {
+      "ques": "Which animal is known as the ‘Ship of the Desert?",
+      "options": ["Koala", "Camel", "Dog", "Polar Bear"],
+      "correct" :"Camel"
+    },
+    {
+      "ques": "Which is the largest mammal?",
+      "options": ["Elephant", "Blue Whale", "Tiger", "Giraffe"],
+      "correct" :"Blue Whale"
+    },
+    {
+      "ques": "What type of gas do plants absorb?",
+      "options": ["CO2", "O2", "NO2", "HCl"],
+      "correct" :"CO2"
+    },
+    {
+      "ques": "What do you call a house made of ice?",
+      "options": ["Icy", "Tent", "Igloo", "Cruise"],
+      "correct" :"Igloo"
+    },
+    {
+      "ques": "Which is the smallest continent?",
+      "options": ["Australia", "Asia", "South America", "Antartica"],
+      "correct" :"Australia"
+    }
+  ],
+  "hard": [
+    {
+      "ques": "What is a baby frog called?",
+      "options": ["Tadpole", "Duck", "Calf", "Kid"],
+      "correct" :"Tadpole"
+    },
+    {
+      "ques": "Which is the longest river on the earth?",
+      "options": ["Yamuna", "Kaveri", "Nile", "Ganga"],
+      "correct" :"Nile"
+    },
+    {
+      "ques": "Which is the tallest mountain in the world?",
+      "options": ["Mt. Everest", "K2", "Kanchanjunga", "Cho Oyu"],
+      "correct" :"Mt. Everest"
+    },
+    {
+      "ques": "Who is the inventor of electricity?",
+      "options": [
+        "William Shakespeare",
+        "Thomas Edison",
+        "Albert Einstien",
+        "Benjamin Franklin"
+      ],
+      "correct" :"Benjamin Franklin"
+    },
+    {
+      "ques": "The largest ‘Democracy’ in the world?",
+      "options": ["India", "France", "USA", "Japan"],
+      "correct" :"India"
+    }
+  ]
+}
